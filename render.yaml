@@ -1,3 +1,9 @@
+databases:
+  - name: go-gin-db
+    databaseName: go-gin-db
+    user: mytestsite
+    plan: standard
+
 services:
   - type: web
     name: go-gin
