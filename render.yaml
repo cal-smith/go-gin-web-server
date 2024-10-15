@@ -1,6 +1,6 @@
 databases:
   - name: go-gin-db
-    databaseName: go-gin-db
+    databaseName: go_gin_db
     user: mytestsite
     plan: basic-256mb
 
