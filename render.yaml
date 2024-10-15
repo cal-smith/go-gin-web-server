@@ -2,7 +2,7 @@ databases:
   - name: go-gin-db
     databaseName: go-gin-db
     user: mytestsite
-    plan: basic-256
+    plan: basic-256mb
 
 services:
   - type: web
