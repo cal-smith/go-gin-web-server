@@ -1,4 +1,4 @@
-# Go Gin Web Server x6
+# Go Gin Web Server
 
 This repo can be used as a starting point to deploy [Go](https://golang.org/) web applications on Render.
 
